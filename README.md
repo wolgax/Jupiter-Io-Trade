@@ -4,13 +4,33 @@
 
 <div align="left">
     <br/>
-    <p><img width="128" height="128" alt="icon@128" src="https://github.com/user-attachments/assets/4c822ae4-c103-4607-97c8-4a9da8f63753" alt="Jup One Touch" width=100/></p>
+    <p>
+      <img width="128" height="128" alt="icon@128" src="https://github.com/user-attachments/assets/2c1b5cdf-dd5c-481f-b15a-f9cfd161afa1" />
+    </p>
     <br/>
+    <p><a href="https://t.me/textmetobot">💬 You can write to me via a telegram bot. </a>
 </div>
 
 Tired of ~1% fees? This extension will embed [Jupiter Plugin](https://plugin.jup.ag) with 2X lower fee (**0.05% fee**) inside your favorite terminal. Nothing else.
+> [!NOTE]
+> This is a learning project, and it can lead to financial costs if 
+applied incorrectly. The 0.05% fee is divided between the creator and 
+the Jupiter platform.
 
-Attention! This is a learning project, and it can lead to financial costs if applied incorrectly. The 0.05% fee is divided between the creator and the Jupiter platform.
+> [!TIP]
+> 1. Download the archive with the project. Click the green Code button → Download ZIP
+> 2. Extract the ZIP file to a folder on your computer
+> 3. Open Chrome Extension page. Click the three-dot menu → Extensions → Manage Extensions. 
+> 4. Enable Developer mode. On the top-right of the Extensions page, toggle Developer mode to On.
+> 5. Load the unpacked extension. Select the folder where you extracted the extension from the ZIP file.
+
+<div align="left">
+    <br/>
+    <p>
+      <img width="70%" height="70%" src="https://github.com/user-attachments/assets/b8dffd49-27a9-4f99-8ebe-0786abc948c7" />
+    </p>
+    <br/>
+</div>
 
 to-do:
 - [x] Auto CA substitution
@@ -27,3 +47,4 @@ to-do:
   - [ ] Dexcreener (?)
   - [ ] Pumpfun
 - [ ] FAQ
+
