@@ -1,0 +1,54 @@
+{
+  "manifest_version": 3,
+  "name": "Jupiter Io Trade",
+  "version": "1",
+  "description": "Widget extension with Jupiter for other trading platforms like Axiom, GMGN, etc. ",
+  "icons": {
+	"16": "icons/icon@16.png",
+    "32": "icons/icon@32.png",
+	"48": "icons/icon@48.png",
+    "64": "icons/icon@64.png",
+    "128": "icons/icon@128.png"},
+  "action": {
+    "default_title": "Jupiter Io Trade",
+    "default_icon": "icons/icon@512.png"
+  },
+  "permissions": [
+    "tabs",
+    "contextMenus"
+  ],
+  "host_permissions": [
+    "https://axiom.trade/*",
+    "https://jup.ag/*",
+	"https://gmgn.ai/*",
+	"https://trade.padre.gg/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+   },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://axiom.trade/*",
+		"https://gmgn.ai/*",
+		"https://trade.padre.gg/*"
+      ],
+      "js": [
+	    "libs/draggabilly.pkgd.min.js",
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "widget.html",
+        "widget.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}

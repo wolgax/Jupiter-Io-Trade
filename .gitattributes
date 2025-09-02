@@ -1,0 +1,9 @@
+# txt
+* text=auto
+
+# imgs
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
