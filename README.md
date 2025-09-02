@@ -11,10 +11,10 @@
     <p><a href="https://t.me/textmetobot">💬 You can write to me via a telegram bot. </a>
 </div>
 
-Tired of ~1% fees? This extension will embed [Jupiter Plugin](https://plugin.jup.ag) with 2X lower fee (**0.05% fee**) inside your favorite terminal. Nothing else.
+Tired of ~1% fees? This extension will embed [Jupiter Plugin](https://plugin.jup.ag) with 2X lower fee (**0.5% fee**) inside your favorite terminal. Nothing else.
 > [!NOTE]
 > This is a learning project, and it can lead to financial costs if 
-applied incorrectly. The 0.05% fee is divided between the creator and 
+applied incorrectly. The 0.5% fee is divided between the creator and 
 the Jupiter platform. You can explore the [web page bridge](https://jupiter-io-web.vercel.app) without installing the extension.
 
 > [!TIP]
