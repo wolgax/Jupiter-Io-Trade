@@ -13,8 +13,7 @@
 
 Tired of ~1% fees? This extension will embed [Jupiter Plugin](https://plugin.jup.ag) with 2X lower fee (**0.5% fee**) inside your favorite terminal. Nothing else.
 > [!NOTE]
-> This is a learning project, and it can lead to financial costs if 
-applied incorrectly. The 0.5% fee is divided between the creator and 
+> This is a learning project, and if applied improperly, it can lead to financial losses. The 0.5% fee is divided between the creator and 
 the Jupiter platform. You can explore the [web page bridge](https://github.com/wolgax/jupiter-io-web) without installing the extension.
 
 > [!TIP]
